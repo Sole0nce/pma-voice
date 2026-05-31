@@ -167,7 +167,7 @@ These are events designed for third-party resource integration. These are emitte
 | [setPlayerRadio](docs/server-setters/setPlayerRadio.md)       | Sets the players radio channel       | int, int     |
 | [setPlayerCall](docs/server-setters/setPlayerCall.md)        | Sets the players call channel        | int, int     |
 | [addChannelCheck](docs/server-setters/addChannelCheck.md)      | Adds a channel check to the players radio channel | int, function |
-
+| [removeChannelCheck](docs/server-setters/removeChannelCheck.md)      | Removes a channel check for the players radio channel | int |
 
 ##### Getters
 
